@@ -1,0 +1,6 @@
+www.facebook.com
+*.facebook.com
+www.google.com
+google.com
+outlook.com
+www.outlook.com
